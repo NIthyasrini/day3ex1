@@ -5,4 +5,5 @@ public class ClassA {
 		int i =10;
 		int d=30;
 	}
+	int h=50;
 }
